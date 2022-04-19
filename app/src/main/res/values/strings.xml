@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tples51kotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="message">Message</string>
+    <string name="send_message">Send message</string>
+    <string name="read">Read</string>
+    <string name="name">Введите сообщение</string>
+</resources>
